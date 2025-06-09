@@ -90,7 +90,7 @@ Correo que se le envía al usuario registrado con su PDF adjunto:
 
 ---
 
-## 👤 Créditos
+## 👤 Créditos EQUIPO 7
 
 **García García Luis Jared**  
  22161064
