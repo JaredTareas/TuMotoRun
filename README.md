@@ -56,9 +56,7 @@ Correo que se le envía al usuario registrado con su PDF adjunto:
 
 ---
 
-### 🧾 Comprobante de compra (PDF generado)
 
-![PDF compra](https://github.com/user-attachments/assets/229f82d7-6ed1-4135-9b88-9cc82ae4f84f)
 
 ---
 
@@ -72,6 +70,10 @@ Correo que se le envía al usuario registrado con su PDF adjunto:
 
 ![Vendedor 1](https://github.com/user-attachments/assets/b3965331-78e5-43b5-a724-beb4baf4142d)
 ![Vendedor 2](https://github.com/user-attachments/assets/b2b2644c-3ede-4cb4-bba2-2c3fd38838cc)
+
+### 🧾 Comprobante de compra (PDF generado)
+
+![PDF compra](https://github.com/user-attachments/assets/229f82d7-6ed1-4135-9b88-9cc82ae4f84f)
 
 ---
 
