@@ -34,5 +34,42 @@ Características principales
 
 
 
+Correo que se le envia al usuario cuando ya esta registado:
+
+![image](https://github.com/user-attachments/assets/71651bbc-82df-4037-9921-e25f90c64004)
+![image](https://github.com/user-attachments/assets/5cbd21d6-8a59-4a05-bd5a-bc2f94eaad66)
+
+
+
+
+Rol vendedor:
+El rol de vendedor solo puede hacer ventas, los botones de los productos no le aparecen ni tampoco puede registrar usaurios
+![image](https://github.com/user-attachments/assets/b3965331-78e5-43b5-a724-beb4baf4142d)
+
+![image](https://github.com/user-attachments/assets/b2b2644c-3ede-4cb4-bba2-2c3fd38838cc)
+
+pdf de como se puede ver el comprobante de la compra realizada :
+
+
+![image](https://github.com/user-attachments/assets/229f82d7-6ed1-4135-9b88-9cc82ae4f84f)
+
+
+
+Rol administrador de productos:
+Este rol solo puede administrar los productos como añadir, eliminar o editarlos, no puede hacer ventas ni tampoco puede registar usuarios ya que los botones aparecen desabilitados 
+![image](https://github.com/user-attachments/assets/1808d0ca-b37c-466b-a0a8-6055147474f7)
+
+![image](https://github.com/user-attachments/assets/4445bad5-f322-461c-b31d-48a6790ad92f)
+
+
+Creditos
+García García Luis Jared 22161064
+
+
+
+
+
+
+
 
 
